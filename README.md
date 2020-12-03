@@ -32,7 +32,7 @@ Note: if you want to run against Besu, follow the Besu docs.
 
 ONLY use these instructions if you are doing development work on the Dapp itself, in which case connecting to a development server (Ganache) will enable faster development.
 
-The Dapp will facilitate managing permissioning rules and maintaining the list of admin accounts that can edit rules.
+The Dapp facilitates managing permissioning rules and maintaining the list of admin accounts that can edit rules.
 
 This is the easiest way to get started for development with the permissioning Dapp:
 
